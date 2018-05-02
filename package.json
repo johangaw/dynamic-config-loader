@@ -1,0 +1,29 @@
+{
+  "name": "dynamic-config-loader",
+  "version": "0.1.0",
+  "description": "Dynamic config loader which loads data from multiple sources and presents them as a single config object",
+  "main": "app/index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johangus/dynamic-config-loader.git"
+  },
+  "keywords": [
+    "config",
+    "cgf",
+    "loader",
+    "config-loader",
+    "cfg-loader",
+    "dynamic-loader",
+    "dynamic-config-loader",
+    "dynamic-cfg-loader"
+  ],
+  "author": "Johan Gustavsson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/johangus/dynamic-config-loader/issues"
+  },
+  "homepage": "https://github.com/johangus/dynamic-config-loader#readme"
+}
